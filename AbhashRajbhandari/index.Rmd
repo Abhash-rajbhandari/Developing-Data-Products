@@ -53,6 +53,6 @@ After the computer completes guess, its the user who should guess
 
 Want to try yourself the game? 
 
-Go to - https://AbhashRajbhandari.shinyapps.io/devdataprod/
+Go to - https://abhashrajbhandari.shinyapps.io/Developing-Data-Products/
 
 Thank you!
